@@ -1,0 +1,8 @@
+{
+  "name": "makefun-pigeon-pitch",
+  "version": "1.0.0",
+  "description": "One-line elevator pitch a city pigeon gives investors for its startup",
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT"
+}
